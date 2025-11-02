@@ -1,0 +1,42 @@
+[
+  {
+    "OrbitalSpeed": 29.78,
+    "Type": 2,
+    "Name": "Nova120",
+    "Mass": 7.182907709634633E+24,
+    "Radius": 2039867.6971266354,
+    "Age": 0,
+    "HasLife": true,
+    "DistanceFromSun": 4860.411406676831
+  },
+  {
+    "OrbitalSpeed": 29.78,
+    "Type": 3,
+    "Name": "Zephyr144",
+    "Mass": 8.355368082673532E+24,
+    "Radius": 17242551.58955072,
+    "Age": 0,
+    "HasLife": true,
+    "DistanceFromSun": 2413.7786879800747
+  },
+  {
+    "OrbitalSpeed": 29.78,
+    "Type": 1,
+    "Name": "Xenon862",
+    "Mass": 6.181821677209312E+24,
+    "Radius": 26150985.582477503,
+    "Age": 0,
+    "HasLife": false,
+    "DistanceFromSun": 118.12132890828941
+  },
+  {
+    "OrbitalSpeed": 29.78,
+    "Type": 1,
+    "Name": "Xenon86222",
+    "Mass": 6.181821677209312E+24,
+    "Radius": 26150985.582477503,
+    "Age": 0,
+    "HasLife": false,
+    "DistanceFromSun": 118.12132890828941
+  }
+]
